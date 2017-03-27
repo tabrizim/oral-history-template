@@ -165,7 +165,7 @@ $(window).on('load', function() {
     });
     pop.footnote({
         start: 160,
-        text: "If you know any veterans who may be suffering from mental health issues, please click on the picture above to learn about how you can help.",
+        text: "If you know any veterans who may be suffering from mental health issues, please click on the picture above to learn about how you can help them.",
         target: "popcorn-container"
     });
     // Change the above events to your satisfaction, and then add your own events here, before
